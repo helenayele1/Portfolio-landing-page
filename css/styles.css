@@ -1,31 +1,21 @@
 h1 {
     margin-top: 60px;
-    text-align: left;
+    text-align: center;
     margin-bottom: 5px;
 }
 
 p {
     margin-top: 5px;
+    text-align: center;
+    font-size: 20px;
+    
 }
 
 .container {
     margin: 0 auto;
     max-width: 900px;
 
-}
-    
-  img {
-    float: left;
-    margin-right: 30px;
-   
-}
-
-  p {
-    word-wrap: break-word; /* Wrap long words onto the next line */
-    padding: 5px; /* Add padding to the margin */
-    width: 65%; 
-
-  }
+} 
 
 .italic {
       font-style: italic;
@@ -46,7 +36,7 @@ background-color: tan
 }
 
 h2 {
-    text-align: left;
+    text-align: center;
 
 }
 
@@ -56,5 +46,11 @@ h2 {
         margin: 10px;
         background-color: beige;
         width: 500px;
+        text-align: center;
       }
+
+h4 {
+
+    text-align: center;
+}
 
