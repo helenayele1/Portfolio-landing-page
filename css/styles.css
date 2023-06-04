@@ -1,7 +1,11 @@
-h1 {
+
+h1, h2, h3 {
+
     margin-top: 60px;
     text-align: center;
     margin-bottom: 5px;
+    background-color: #F4EECE;
+  
 }
 
 p {
@@ -11,11 +15,6 @@ p {
     
 }
 
-.container {
-    margin: 0 auto;
-    max-width: 900px;
-
-} 
 
 .italic {
       font-style: italic;
@@ -49,7 +48,8 @@ h2 {
         text-align: center;
       }
 
-h4 {
+
+h3 {
 
     text-align: center;
 }
