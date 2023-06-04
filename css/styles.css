@@ -1,10 +1,60 @@
 h1 {
-    text-align: center;
-    font-family: serif
+    margin-top: 60px;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+p {
+    margin-top: 5px;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 900px;
 
 }
+    
+  img {
+    float: left;
+    margin-right: 30px;
+   
+}
+
+  p {
+    word-wrap: break-word; /* Wrap long words onto the next line */
+    padding: 5px; /* Add padding to the margin */
+    width: 65%; 
+
+  }
+
+.italic {
+      font-style: italic;
+      
+    }
 
 .small-image {
     width: 200px;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid black;
 }
+    
+body {
+
+background-color: tan
+
+}
+
+h2 {
+    text-align: left;
+
+}
+
+.box-model {
+        padding: 10px;
+        border: 1px solid black;
+        margin: 10px;
+        background-color: beige;
+        width: 500px;
+      }
 
