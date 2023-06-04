@@ -35,10 +35,6 @@ background-color: tan
 
 }
 
-.container {
-    width: 100%; /* Adjust the width as needed */
-  }
-
 .box {
         padding: 10px;
         border: 2px solid black;
@@ -46,15 +42,11 @@ background-color: tan
         background-color: beige;
         width: 500px;
         text-align: center;
+        float: right;
         
         
       }
 
-.float-right {
-        display: inline-block; /* Display the span as an inline block */
-        float: right; /* Float the span to the right */
-       
-      }
 
 
 
