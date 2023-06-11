@@ -1,50 +1,49 @@
-# Portfolio-landing-page
+# _Portfolio-landing-page_
 
-This is a portfolio website for showcasing my background, projects, and contact information. The website provides information about my professional background, skills, and interests, along with links to my projects on GitHub.
+#### By Helen Ayele
 
-## Table of Contents
+#### This is a portfolio website for showcasing my background, projects, and contact information. The website provides information about my professional background, skills, and interests, along with links to my projects on GitHub.
 
-- [About](#about)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Projects](#projects)
-- [Contact](#contact)
 
-## About
+## Technologies Used
+
+* CSS
+* HTML
+
+
+## Description
 
 The portfolio website is a single-page HTML document that presents an introduction to me and my journey to become a software developer. It includes sections such as "About Me," "My Background," "Projects," and "Contact Me."
 
 The website is built using HTML and CSS, with separate styles defined in the "styles.css" file. The HTML file provides the structure and content of the website, while the CSS file handles the visual styling.
 
-## Installation
+## Setup/Installation Requirements
 
-1. Clone the repository: `git clone https://github.com/helenayele/portfolio-website.git`
-2. Open the project folder on your local machine.
+* _Clone repo from GitHub to your Desktop with this command: git clone https://github.com/helenayele/portfolio-website.git
+* _Navigate to the project directory within Terminal: cd portfolio-website_
+* _Open the project in a browser. Locate index.html in a browser_
 
-## Usage
 
-To view the portfolio website, simply open the "index.html" file in a web browser. The website will be displayed with all the sections and content. To access the live demo of this project, please visit https://helenayele1.github.io/Portfolio-landing-page/
+## Known Bugs
 
-## Projects
+* No known bugs.
 
-The "Projects" section of the website showcases a few of my projects developed during my time at Epicodus. The projects are listed with links to their respective GitHub repositories.
+## License
 
-- [Things About Me!](https://github.com/helenayele1/My-Second-webpage.git)
-- [My Favorite Places!](https://github.com/helenayele1/My-Favortie-things.git)
-- [Resort Website](https://github.com/helenayele1/resort-website.git). Co-Authors Jenny Larson and Mackenzie Granger.
+MIT License
 
-Feel free to explore the projects and view their source code.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## Contact
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-To get in touch with  me (Helen Ayele), you can reach out via email or phone:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-- Email: helenayele56@gmail.com
-- Phone: 2064097030
 
-Please feel free to contact me with any inquiries, collaboration opportunities, or questions.
-
----
-
-Thank you for visiting my portfolio website!
-
+Copyright (c) 6/11/2023 Helen Ayele
