@@ -19,10 +19,11 @@ The website is built using HTML and CSS, with separate styles defined in the "st
 
 ## Setup/Installation Requirements
 
-* _Clone repo from GitHub to your Desktop with this command: git clone https://github.com/helenayele/portfolio-website.git
-* _Navigate to the project directory within Terminal: cd portfolio-website_
-* _Open the project in a browser. Locate index.html in a browser_
+* Clone repo from GitHub to your Desktop with this command: git clone https://github.com/helenayele1/Portfolio-landing-page
+* Navigate to the project directory within Terminal: cd portfolio-website_
+* Open the project in a browser. Locate index.html in a browser_
 
+This project is deployed and can be accessed online here: https://helenayele1.github.io/Portfolio-landing-page/
 
 ## Known Bugs
 
