@@ -9,13 +9,24 @@
 
 * CSS
 * HTML
+* Bootstrap
 
 
 ## Description
+The portfolio website is a collection of HTML documents that together present an introduction to me and my journey to become a software developer. The website consists of the following files:
 
-The portfolio website is a single-page HTML document that presents an introduction to me and my journey to become a software developer. It includes sections such as "About Me," "My Background," "Projects," and "Contact Me."
+'index.html': This serves as the main entry point and home page for the portfolio. It provides an overview of who I am and what I aim to achieve as an aspiring software developer.
 
-The website is built using HTML and CSS, with separate styles defined in the "styles.css" file. The HTML file provides the structure and content of the website, while the CSS file handles the visual styling.
+'aboutme.html': In this file, you can find detailed information about me, my interests, and my background. It offers insights into my personal and professional life.
+
+'projects.html': This page showcases some of the projects I've worked on during my journey. It provides descriptions and links to my coding projects, allowing visitors to explore my work.
+
+'styles.css': This CSS file is responsible for defining the visual styling of the website. It customizes the layout, colors, fonts, and other design elements to create an aesthetically pleasing user experience.
+
+'bootstrap.css': This CSS file contains styles from the Bootstrap framework, enhancing the website's responsiveness and providing pre-designed components for improved usability.
+
+The HTML files provide the structure and content of the website, while 'styles.css' and 'bootstrap.css' handle custom and Bootstrap-based styling, respectively. This combination of files ensures a comprehensive and visually appealing online presence for my portfolio.
+
 
 ## Setup/Installation Requirements
 
