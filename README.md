@@ -15,15 +15,15 @@
 ## Description
 The portfolio website is a collection of HTML documents that together present an introduction to me and my journey to become a software developer. The website consists of the following files:
 
-'index.html': This serves as the main entry point and home page for the portfolio. It provides an overview of who I am and what I aim to achieve as an aspiring software developer.
+index.html: This serves as the main entry point and home page for the portfolio. It provides an overview of who I am and what I aim to achieve as an aspiring software developer.
 
-'aboutme.html': In this file, you can find detailed information about me, my interests, and my background. It offers insights into my personal and professional life.
+aboutme.html: In this file, you can find detailed information about me, my interests, and my background. It offers insights into my personal and professional life.
 
-'projects.html': This page showcases some of the projects I've worked on during my journey. It provides descriptions and links to my coding projects, allowing visitors to explore my work.
+projects.html: This page showcases some of the projects I've worked on during my journey. It provides descriptions and links to my coding projects, allowing visitors to explore my work.
 
-'styles.css': This CSS file is responsible for defining the visual styling of the website. It customizes the layout, colors, fonts, and other design elements to create an aesthetically pleasing user experience.
+styles.css: This CSS file is responsible for defining the visual styling of the website. It customizes the layout, colors, fonts, and other design elements to create an aesthetically pleasing user experience.
 
-'bootstrap.css': This CSS file contains styles from the Bootstrap framework, enhancing the website's responsiveness and providing pre-designed components for improved usability.
+bootstrap.css: This CSS file contains styles from the Bootstrap framework, enhancing the website's responsiveness and providing pre-designed components for improved usability.
 
 The HTML files provide the structure and content of the website, while 'styles.css' and 'bootstrap.css' handle custom and Bootstrap-based styling, respectively. This combination of files ensures a comprehensive and visually appealing online presence for my portfolio.
 
